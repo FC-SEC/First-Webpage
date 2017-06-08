@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <!--The head contains instructions for the webpage-->
     <meta charset="utf-8">
     <title>First Webpage</title>
   </head>
   <body bgcolor="#b0b4ba">
+    <!--The body contains viewable content-->
 <h1>Hello World!!!</h1>
   </body>
 </html>
