@@ -5,6 +5,7 @@ The em tag stands for emphasizes the tagged text.
 The strong tag bolds the tagged text.
 The tags h1 through h6 are block elements h1 being biggest and h6 is the largest.
 The ol tags stand for ordered lists.
+The tag li stands for list items
 
 Code is on github.com
 
