@@ -9,12 +9,12 @@
     <!--The body contains viewable content-->
 <h1>Hello World!!!</h1>
 <p><strong><em>Yeah this website SUCKS!!!</em></strong></p>
-<ol>
+<ul>
   <li>THIS</li>
   <li>WEBPAGE</li>
   <li>IS</li>
   <li>BASIC</li>
-</ol>
+</ul>
   </body>
 </html>
 <!-- Last updated 6/8/2017 -->
