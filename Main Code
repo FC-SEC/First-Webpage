@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <title>First Webpage</title>
   </head>
-  <body bgcolor="#b0b4ba">
+  <body bgcolor="#b2b2b2">
 <h1>Hello World!!!</h1>
 <p><strong><em>Yeah this website SUCKS!!!</em></strong></p>
 <ul>
@@ -13,23 +13,7 @@
   <li>IS</li>
   <li>BASIC</li>
 </ul>
-<h2>Webpage source code</h2>
-<textarea name="name" rows="17" cols="80"><!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>First Webpage</title>
-  </head>
-  <body bgcolor="#b0b4ba">
-<h1>Hello World!!!</h1>
-<p><strong><em>Yeah this website SUCKS!!!</em></strong></p>
-<ul>
-  <li>THIS</li>
-  <li>WEBPAGE</li>
-  <li>IS</li>
-  <li>BASIC</li>
-</ul>
-  </body>
-</html></textarea>
+<img src="http://cimg.tvgcdn.net/i/r/2013/10/15/e4bf68ce-a7ea-424c-b1b6-a6bd74d5c758/thumbnail/624x447/b2bbccf7a276e17afe76aa53e55a5170/crying-face-dawson1.jpg">
+<a href="https://www.udemy.com/the-web-developer-bootcamp">...</a>
   </body>
 </html>
